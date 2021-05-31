@@ -1,4 +1,4 @@
-<p align="center">ZICO NAKANO
+<p align="center">ZICO NAKANO<br />Yo Halo
 
 <p align="center">───────────────────
 
