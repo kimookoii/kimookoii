@@ -1,3 +1,4 @@
+#ZICC
 - 👋 Hi, I’m @ZICONakano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,5 +10,4 @@ ZICONakano/ZICONakano is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
     
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-    
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
