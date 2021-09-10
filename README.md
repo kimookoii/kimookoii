@@ -1,6 +1,6 @@
 # Hai! Aku **[ZICO Nakano](https://instagram.com/ziconkn_)**! 👋
 
-_Panggil saja zicc._
+Panggil saja zicc.
 
 ---
 
