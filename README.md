@@ -9,7 +9,7 @@ panggil saja zicc
 ---
 
   <p align="center">
-KLIK DIBAWAH
+
   </p>
   
   <p align="center">
