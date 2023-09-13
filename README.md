@@ -4,8 +4,6 @@ panggil saja zicc
 
   <img src="https://cdn.discordapp.com/attachments/862641670301679616/891867009661403156/ZICO_BG_LAPTOPPP.png">
   
-
-  
 ---
   <p align="center">
   </p>
@@ -24,6 +22,7 @@ panggil saja zicc
       <a href="https://discord.gg/GJQYKR9YVV">
         <img src="https://img.shields.io/discord/824320012944408616?label=Discord&color=5865F2&style=for-the-badge">
       </a>
+    
 ---
 
 _Made with ❤️ by **[@ziconkn_](https://instagram.com/ziconkn_)**_
