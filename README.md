@@ -7,11 +7,8 @@ panggil saja zicc
 
   
 ---
-
   <p align="center">
-
   </p>
-  
   <p align="center">
     <br>
       <a href="mailto:ziconakano00@gmail.com">
@@ -27,7 +24,6 @@ panggil saja zicc
       <a href="https://discord.gg/GJQYKR9YVV">
         <img src="https://img.shields.io/discord/824320012944408616?label=Discord&color=5865F2&style=for-the-badge">
       </a>
-  
 ---
 
 _Made with ❤️ by **[@ziconkn_](https://instagram.com/ziconkn_)**_
