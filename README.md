@@ -1,6 +1,4 @@
 # Hai! Aku **[ZICO Nakano](https://instagram.com/ziconkn_)**! 👋
-
-  <img src="https://cdn.discordapp.com/attachments/862641670301679616/891867009661403156/ZICO_BG_LAPTOPPP.png">
   
 ---
   <p align="center">
