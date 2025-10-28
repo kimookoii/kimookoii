@@ -1,4 +1,4 @@
-# Hai! Aku **[ZICO Nakano](https://instagram.com/ziconkn_)**! 👋
+# hai! aku **[zico nakano](https://instagram.com/ziconkn_)**! 👋
   
 ---
   <p align="center">
@@ -7,7 +7,7 @@
     <br>
       <a href="mailto:ziconakano00@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Zico Nakano Gmail">
+            alt="zico nakano gmail">
       </a>
       <a href="https://instagram.com/ziconkn_">
         <img src="https://img.shields.io/badge/-INSTAGRAM-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -21,4 +21,4 @@
     
 ---
 
-_Made with ❤️ by **[@ziconkn_](https://instagram.com/ziconkn_)**_
+_made with ❤️ by **[@ziconkn_](https://instagram.com/ziconkn_)**_
