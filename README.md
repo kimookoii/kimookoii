@@ -1,4 +1,4 @@
-# hai! aku **[zico nakano](https://instagram.com/ziconkn_)**! 👋
+# hai! aku **[zico nakano](https://instagram.com/ziconkn_)** 👋
   
 ---
   <p align="center">
