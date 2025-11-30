@@ -11,8 +11,8 @@
     <a href="mailto:ziconakano00@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="zico nakano gmail">
     </a>
-    <a href="https://instagram.com/ziconkn__">
-      <img src="https://img.shields.io/badge/-INSTAGRAM-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a href="https://instagram.com/ziconkn_">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.ryzumi.vip/api/stalk/instagram?username=ziconkn_&query=followers&label=Instagram&color=8a3ab9&logo=instagram&style=for-the-badge" />
     </a>
     <a href="https://youtube.com/ziconakano">
       <img src="https://img.shields.io/youtube/channel/subscribers/UC42YUW6mHp4MhVtu5tDJF9g?label=YOUTUBE&style=for-the-badge">
@@ -26,6 +26,12 @@
     <img src="https://komarev.com/ghpvc/?username=kimookoii&label=Profile%20Views&color=blue&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Active%20Developer-Yes-brightgreen?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Open%20Source❤-Contributor-orange?style=for-the-badge"/>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/GJQYKR9YVV">
+      <img src="https://discord.c99.nl/widget/theme-4/809384744429158411.png" width="400" />
+    </a>
   </p>
 
   <!-- p>
