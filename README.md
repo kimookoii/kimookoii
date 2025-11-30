@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="zico nakano gmail">
     </a>
     <a href="https://instagram.com/ziconkn_">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.ryzumi.vip/api/stalk/instagram?username=ziconkn_&query=followers&label=Instagram&color=8a3ab9&logo=instagram&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Instagram%20Followers-__IG_FOLLOWERS__-8a3ab9?style=for-the-badge&logo=instagram" />
     </a>
     <a href="https://youtube.com/ziconakano">
       <img src="https://img.shields.io/youtube/channel/subscribers/UC42YUW6mHp4MhVtu5tDJF9g?label=YOUTUBE&style=for-the-badge">
