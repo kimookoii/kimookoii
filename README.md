@@ -28,21 +28,26 @@
     <img src="https://img.shields.io/badge/Open%20Source❤-Contributor-orange?style=for-the-badge"/>
   </p>
 
-  <p>
+  <!-- p>
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,linux,docker&theme=dark" />
+  </p -->
+
+---
+
+  <!-- [GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kimookoii&show_icons=true&theme=tokyonight&hide_border=true) -->
+
+  <p align="center">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kimookoii&layout=compact&theme=tokyonight&hide_border=true" width="320" />
+    <img src="https://streak-stats.demolab.com?user=kimookoii&theme=tokyonight&hide_border=true" width="448" />
   </p>
+  
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kimookoii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8" width="770"
+  />
+</p>
 
 ---
-
-  ![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kimookoii&show_icons=true&theme=tokyonight&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kimookoii&layout=compact&theme=tokyonight&hide_border=true)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=kimookoii\&theme=tokyonight\&hide_border=true)
-
----
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=kimookoii\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=5)
 
   ![Metrics](https://metrics.lecoq.io/kimookoii?template=classic\&isocalendar=1\&languages=1\&followup=1\&activity=1\&achievements=1\&notable=1\&introduction=1\&isocalendar.duration=full-year\&languages.limit=8\&config.timezone=Asia%2FBangkok)
 
