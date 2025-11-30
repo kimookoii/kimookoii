@@ -36,5 +36,5 @@ jobs:
 
       - name: Debug README after
         run: |
-          sed -i 's|__IG_FOLLOWERS__|'"$FOLLOWERS"'|g' README.md
+          sed -i 's|%%IG_FOLLOWERS%%|'"$FOLLOWERS"'|g' README.md
           cat README.md
