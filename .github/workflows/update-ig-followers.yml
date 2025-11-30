@@ -30,3 +30,11 @@ jobs:
           git add README.md
           git commit -m "chore: update IG followers to ${FOLLOWERS}" || echo "nothing to commit"
           git push
+
+      - name: Debug README content before
+        run: cat README.md
+
+      - name: Debug README after
+        run: |
+          sed -i 's|__IG_FOLLOWERS__|'"$FOLLOWERS"'|g' README.md
+          cat README.md
