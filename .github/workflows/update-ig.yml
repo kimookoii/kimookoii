@@ -17,26 +17,23 @@ jobs:
 
       - name: Fetch IG data
         run: |
-          curl -s "https://api.ryzumi.vip/api/stalk/instagram?username=ziconkn_" -o ig.json
+          curl -s "https://ig-stats-zico.vercel.app/api/user?username=ziconkn_" -o ig.json
           echo "=== ig.json ==="
           cat ig.json
-          echo "=== parsed JSON ==="
-          jq . ig.json || exit 1
-
-      - name: Extract followers
-        run: |
-          FOLLOWERS=$(jq -r '.followers // empty' ig.json)
-          echo "Followers raw: '${FOLLOWERS}'"  # lihat output
-          if [ -z "$FOLLOWERS" ]; then
-            echo "No followers found — exiting with error"
-            exit 1
-          fi
-          echo "$FOLLOWERS" > followers.txt
+          jq -r '.followers' ig.json > followers.txt || true
+          echo "Followers:"
+          cat followers.txt
 
       - name: Update README badge
         run: |
           FOLLOWERS=$(cat followers.txt)
+
+          if [ -z "$FOLLOWERS" ]; then
+            FOLLOWERS="N/A"
+          fi
+
           sed -i "s|%%IG_FOLLOWERS%%|${FOLLOWERS}|g" README.md
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
