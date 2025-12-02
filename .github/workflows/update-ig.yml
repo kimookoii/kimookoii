@@ -2,44 +2,43 @@ name: Update IG followers
 
 on:
   schedule:
-    - cron: '0 * * * *'   # jalan setiap jam
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Fetch IG data
         run: |
-          echo "Fetching Instagram data..."
           curl -s "https://api.ryzumi.vip/api/stalk/instagram?username=ziconkn_" -o ig.json
-          jq -r '.followers' ig.json > followers.txt || true
-          echo "Followers fetched:"
-          cat followers.txt
+          echo "=== ig.json ==="
+          cat ig.json
+          echo "=== parsed JSON ==="
+          jq . ig.json || exit 1
+
+      - name: Extract followers
+        run: |
+          FOLLOWERS=$(jq -r '.followers // empty' ig.json)
+          echo "Followers raw: '${FOLLOWERS}'"  # lihat output
+          if [ -z "$FOLLOWERS" ]; then
+            echo "No followers found — exiting with error"
+            exit 1
+          fi
+          echo "$FOLLOWERS" > followers.txt
 
       - name: Update README badge
         run: |
           FOLLOWERS=$(cat followers.txt)
-
-          # Fallback jika API error
-          if [ -z "$FOLLOWERS" ]; then
-            FOLLOWERS="N/A"
-          fi
-
-          # Replace placeholder di README
           sed -i "s|%%IG_FOLLOWERS%%|${FOLLOWERS}|g" README.md
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add README.md
           git commit -m "chore: update IG followers to ${FOLLOWERS}" || echo "nothing to commit"
-
           git push
-
-      - name: Show README content after update
-        run: cat README.md
