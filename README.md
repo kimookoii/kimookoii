@@ -9,10 +9,10 @@
   <p>
   <br>
     <a href="mailto:ziconakano00@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="zico nakano gmail">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <a href="https://instagram.com/ziconkn_">
-      <img src="https://img.shields.io/endpoint?url=https://kimookoii.github.io/ig-followers-scraper/ig_followers_badge.json&style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/endpoint?url=https://kimookoii.github.io/ig-followers-scraper/ig_followers_badge.json&style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://youtube.com/ziconakano">
       <img src="https://img.shields.io/youtube/channel/subscribers/UC42YUW6mHp4MhVtu5tDJF9g?label=YOUTUBE&style=for-the-badge">
@@ -30,7 +30,7 @@
 
   <p>
     <a href="https://discord.gg/GJQYKR9YVV">
-      <img src="https://discord.c99.nl/widget/theme-4/809384744429158411.png" width="400" />
+      <img src="https://discord.c99.nl/widget/theme-4/809384744429158411.png" width="400"/>
     </a>
   </p>
 
@@ -43,14 +43,12 @@
   <!-- [GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kimookoii&show_icons=true&theme=tokyonight&hide_border=true) -->
 
   <p align="center">
-    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kimookoii&layout=compact&theme=tokyonight&hide_border=true" width="320" />
-    <img src="https://streak-stats.demolab.com?user=kimookoii&theme=tokyonight&hide_border=true" width="448" />
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kimookoii&layout=compact&theme=tokyonight&hide_border=true" width="320">
+    <img src="https://streak-stats.demolab.com?user=kimookoii&theme=tokyonight&hide_border=true" width="448">
   </p>
   
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kimookoii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8" width="770"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=kimookoii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8" width="770">
 </p>
 
 ---
